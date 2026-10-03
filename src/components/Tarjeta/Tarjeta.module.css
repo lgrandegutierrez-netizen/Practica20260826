@@ -1,0 +1,12 @@
+.caja {
+    background-color: #ffffff;
+    border: 1px solid #e1e4e8;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.titulo {
+    color: #20232a;
+    margin-top: 0;
+}
